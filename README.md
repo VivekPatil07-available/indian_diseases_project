@@ -60,7 +60,7 @@ Initial exploration was performed using Python to understand the dataset structu
 Steps performed:
 
 Used data.info() and data.describe()
-
+ 
 Checked missing values using isnull()
 
 Verified unique values in categorical columns
