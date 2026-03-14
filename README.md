@@ -1,4 +1,4 @@
-🏥 Indian Disease Analysis
+🏥 Indian-disease-data-analysis
 📊 Project Overview
 
 This project analyzes healthcare data to understand disease patterns, patient demographics, recovery duration, and mortality trends in India. The goal is to use data analytics techniques to uncover insights that can help improve healthcare decision-making and patient outcomes.
